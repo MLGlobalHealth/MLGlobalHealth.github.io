@@ -4,12 +4,6 @@
   
   
   <url>
-    <loc>https://mlglobalhealth.github.io/event/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mlglobalhealth.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mlglobalhealth.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://mlglobalhealth.github.io/publication-type/2/</loc><lastmod>2022-06-16T20:55:19+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mlglobalhealth.github.io/authors/</loc><lastmod>2022-06-16T20:55:19+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -23,6 +17,8 @@
     <loc>https://mlglobalhealth.github.io/author/i-hawryluk/</loc><lastmod>2022-06-16T20:55:19+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mlglobalhealth.github.io/author/m-vollmer/</loc><lastmod>2022-06-16T20:55:19+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mlglobalhealth.github.io/</loc><lastmod>2022-06-16T20:55:19+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mlglobalhealth.github.io/publication_types/</loc><lastmod>2022-06-16T20:55:19+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1184,10 +1180,6 @@
   <url>
     <loc>https://mlglobalhealth.github.io/author/zulma-m.-cucunuba/</loc><lastmod>2022-06-16T20:55:16+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://mlglobalhealth.github.io/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mlglobalhealth.github.io/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://mlglobalhealth.github.io/author/a-boonyasiri/</loc><lastmod>2022-06-16T20:55:17+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mlglobalhealth.github.io/author/ac-ghani/</loc><lastmod>2022-06-16T20:55:17+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -1235,8 +1227,6 @@
     <loc>https://mlglobalhealth.github.io/author/p-walker/</loc><lastmod>2022-06-16T20:55:17+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mlglobalhealth.github.io/author/rg-fitzjohn/</loc><lastmod>2022-06-16T20:55:16+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mlglobalhealth.github.io/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mlglobalhealth.github.io/author/s-riley/</loc><lastmod>2022-06-16T20:55:17+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1666,8 +1656,4 @@
   <url>
     <loc>https://mlglobalhealth.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://mlglobalhealth.github.io/author/nelson-bighetti/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mlglobalhealth.github.io/tour/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mlglobalhealth.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://mlglobalhealth.github.io/author/swapnil-mishra/</loc><changefreq>weekly</changefreq></url></urlset>
