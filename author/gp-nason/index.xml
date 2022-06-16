@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GP Nason | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/gp-nason/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/gp-nason/index.xml" rel="self" type="application/rss+xml" />
+    <description>GP Nason</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>GP Nason</title>
+      <link>https://mlglobalhealth.github.io/author/gp-nason/</link>
+    </image>
+    
+    <item>
+      <title>Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England</title>
+      <link>https://mlglobalhealth.github.io/publication/mishra-2021-changingengland/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-changingengland/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

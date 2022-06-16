@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Flaxman | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/s-flaxman/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/s-flaxman/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Flaxman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 18:55:19 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>S Flaxman</title>
+      <link>https://mlglobalhealth.github.io/author/s-flaxman/</link>
+    </image>
+    
+    <item>
+      <title>Gaussian Process Nowcasting: Application to COVID-19 Mortality Reporting</title>
+      <link>https://mlglobalhealth.github.io/publication/hawrylukgaussianreporting/</link>
+      <pubDate>Thu, 16 Jun 2022 18:55:19 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/hawrylukgaussianreporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic characterization and epidemiology of an emerging SARS-CoV-2 variant in Delhi, India</title>
+      <link>https://mlglobalhealth.github.io/publication/dhar-2021-genomicindia/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/dhar-2021-genomicindia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe</title>
+      <link>https://mlglobalhealth.github.io/publication/sharma-2021-understandingeurope/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/sharma-2021-understandingeurope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 B.1.617.2 Delta variant replication and immune evasion</title>
+      <link>https://mlglobalhealth.github.io/publication/mlcochova-2021-sarscov-2-evasion/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mlcochova-2021-sarscov-2-evasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the responses of the UK, Sweden and Denmark to COVID-19 using counterfactual modelling</title>
+      <link>https://mlglobalhealth.github.io/publication/mishra-2021-comparingmodelling/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-comparingmodelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England</title>
+      <link>https://mlglobalhealth.github.io/publication/mishra-2021-changingengland/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-changingengland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A modified two-process Knox test for investigating the relationship between law enforcement opioid seizures and overdoses</title>
+      <link>https://mlglobalhealth.github.io/publication/mohler-2021-aoverdoses/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mohler-2021-aoverdoses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil</title>
+      <link>https://mlglobalhealth.github.io/publication/faria-2021-genomicsbrazil/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/faria-2021-genomicsbrazil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Hawkes Processes to model imported and local malaria cases in near-elimination settings</title>
+      <link>https://mlglobalhealth.github.io/publication/unwin-2021-usingsettings/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/unwin-2021-usingsettings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
+      <link>https://mlglobalhealth.github.io/publication/monod-2021-agestates/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/monod-2021-agestates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England</title>
+      <link>https://mlglobalhealth.github.io/publication/volz-2021-assessingengland/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/volz-2021-assessingengland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the impact of the tier system on SARS-CoV-2 transmission in the UK between the first and second national lockdowns</title>
+      <link>https://mlglobalhealth.github.io/publication/laydon-2021-modellinglockdowns/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/laydon-2021-modellinglockdowns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-level tracking of COVID-19 in the United States</title>
+      <link>https://mlglobalhealth.github.io/publication/unwin-2020-statelevelstates/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/unwin-2020-statelevelstates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A COVID-19 Model for Local Authorities of the United Kingdom</title>
+      <link>https://mlglobalhealth.github.io/publication/mishra-2020-akingdom/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mishra-2020-akingdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe</title>
+      <link>https://mlglobalhealth.github.io/publication/flaxman-2020-estimatingeurope/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/flaxman-2020-estimatingeurope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Have deaths from COVID-19 in Europe plateaued due to herd immunity?</title>
+      <link>https://mlglobalhealth.github.io/publication/okell-2020-haveimmunity/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/okell-2020-haveimmunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 20: A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
+      <link>https://mlglobalhealth.github.io/publication/vollmer-2020-reportitaly/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/vollmer-2020-reportitaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
+      <link>https://mlglobalhealth.github.io/publication/mellan-2020-reportbrazil/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mellan-2020-reportbrazil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

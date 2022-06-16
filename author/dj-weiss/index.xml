@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DJ Weiss | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/dj-weiss/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/dj-weiss/index.xml" rel="self" type="application/rss+xml" />
+    <description>DJ Weiss</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>DJ Weiss</title>
+      <link>https://mlglobalhealth.github.io/author/dj-weiss/</link>
+    </image>
+    
+    <item>
+      <title>Maps and metrics of insecticide-treated net access, use, and nets-per-capita in Africa from 2000-2020</title>
+      <link>https://mlglobalhealth.github.io/publication/bertozzivilla-2021-maps-20002020/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/bertozzivilla-2021-maps-20002020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Hawkes Processes to model imported and local malaria cases in near-elimination settings</title>
+      <link>https://mlglobalhealth.github.io/publication/unwin-2021-usingsettings/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/unwin-2021-usingsettings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

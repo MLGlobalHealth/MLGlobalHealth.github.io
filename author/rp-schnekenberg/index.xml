@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RP Schnekenberg | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/rp-schnekenberg/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/rp-schnekenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>RP Schnekenberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 18:55:19 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>RP Schnekenberg</title>
+      <link>https://mlglobalhealth.github.io/author/rp-schnekenberg/</link>
+    </image>
+    
+    <item>
+      <title>Gaussian Process Nowcasting: Application to COVID-19 Mortality Reporting</title>
+      <link>https://mlglobalhealth.github.io/publication/hawrylukgaussianreporting/</link>
+      <pubDate>Thu, 16 Jun 2022 18:55:19 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/hawrylukgaussianreporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil</title>
+      <link>https://mlglobalhealth.github.io/publication/faria-2021-genomicsbrazil/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/faria-2021-genomicsbrazil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

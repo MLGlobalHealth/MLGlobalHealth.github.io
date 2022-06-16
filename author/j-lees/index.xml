@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Lees | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/j-lees/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/j-lees/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Lees</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>J Lees</title>
+      <link>https://mlglobalhealth.github.io/author/j-lees/</link>
+    </image>
+    
+    <item>
+      <title>State-level tracking of COVID-19 in the United States</title>
+      <link>https://mlglobalhealth.github.io/publication/unwin-2020-statelevelstates/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/unwin-2020-statelevelstates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 20: A sub-national analysis of the rate of transmission of Covid-19 in Italy</title>
+      <link>https://mlglobalhealth.github.io/publication/vollmer-2020-reportitaly/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/vollmer-2020-reportitaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report 21: Estimating COVID-19 cases and reproduction number in Brazil</title>
+      <link>https://mlglobalhealth.github.io/publication/mellan-2020-reportbrazil/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mellan-2020-reportbrazil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
