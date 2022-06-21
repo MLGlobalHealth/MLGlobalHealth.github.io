@@ -5,7 +5,7 @@
     <link>https://mlglobalhealth.github.io/author/iwona-hawryluk/</link>
       <atom:link href="https://mlglobalhealth.github.io/author/iwona-hawryluk/index.xml" rel="self" type="application/rss+xml" />
     <description>Iwona Hawryluk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
       <title>Iwona Hawryluk</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Inference of COVID-19 epidemiological distributions from Brazilian hospital data</title>
-      <link>https://mlglobalhealth.github.io/publication/hawryluk-2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/hawryluk-2020/</guid>
+      <title>Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals</title>
+      <link>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process nowcasting: application to COVID-19 mortality reporting</title>
+      <link>https://mlglobalhealth.github.io/publication/hawryluk-2021-dec/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/hawryluk-2021-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-level tracking of COVID-19 in the United States</title>
+      <link>https://mlglobalhealth.github.io/publication/unwin-2020-dec/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/unwin-2020-dec/</guid>
       <description></description>
     </item>
     

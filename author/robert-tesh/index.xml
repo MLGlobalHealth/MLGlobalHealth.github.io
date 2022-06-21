@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Tesh | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/robert-tesh/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/robert-tesh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Tesh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>Robert Tesh</title>
+      <link>https://mlglobalhealth.github.io/author/robert-tesh/</link>
+    </image>
+    
+    <item>
+      <title>Zika virus in the Americas: Early epidemiological and genetic findings</title>
+      <link>https://mlglobalhealth.github.io/publication/faria-2016-apr/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/faria-2016-apr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

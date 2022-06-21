@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giovanini Evelim Coelho | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/giovanini-evelim-coelho/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/giovanini-evelim-coelho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giovanini Evelim Coelho</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>Giovanini Evelim Coelho</title>
+      <link>https://mlglobalhealth.github.io/author/giovanini-evelim-coelho/</link>
+    </image>
+    
+    <item>
+      <title>Zika virus in the Americas: Early epidemiological and genetic findings</title>
+      <link>https://mlglobalhealth.github.io/publication/faria-2016-apr/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/faria-2016-apr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence and potential for spread of Chikungunya virus in Brazil</title>
+      <link>https://mlglobalhealth.github.io/publication/nunes-2015-dec/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/nunes-2015-dec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

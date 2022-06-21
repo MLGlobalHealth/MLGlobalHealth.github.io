@@ -5,7 +5,7 @@
     <link>https://mlglobalhealth.github.io/author/ta-mellan/</link>
       <atom:link href="https://mlglobalhealth.github.io/author/ta-mellan/index.xml" rel="self" type="application/rss+xml" />
     <description>TA Mellan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 18:55:19 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
       <title>TA Mellan</title>
@@ -13,66 +13,10 @@
     </image>
     
     <item>
-      <title>Gaussian Process Nowcasting: Application to COVID-19 Mortality Reporting</title>
-      <link>https://mlglobalhealth.github.io/publication/hawrylukgaussianreporting/</link>
-      <pubDate>Thu, 16 Jun 2022 18:55:19 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/hawrylukgaussianreporting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomic characterization and epidemiology of an emerging SARS-CoV-2 variant in Delhi, India</title>
-      <link>https://mlglobalhealth.github.io/publication/dhar-2021-genomicindia/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/dhar-2021-genomicindia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing the responses of the UK, Sweden and Denmark to COVID-19 using counterfactual modelling</title>
-      <link>https://mlglobalhealth.github.io/publication/mishra-2021-comparingmodelling/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-comparingmodelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England</title>
-      <link>https://mlglobalhealth.github.io/publication/mishra-2021-changingengland/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-changingengland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil</title>
-      <link>https://mlglobalhealth.github.io/publication/faria-2021-genomicsbrazil/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/faria-2021-genomicsbrazil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State-level tracking of COVID-19 in the United States</title>
-      <link>https://mlglobalhealth.github.io/publication/unwin-2020-statelevelstates/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/unwin-2020-statelevelstates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution and epidemic spread of SARS-CoV-2 in Brazil</title>
-      <link>https://mlglobalhealth.github.io/publication/candido-2020-evolutionbrazil/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/candido-2020-evolutionbrazil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe</title>
-      <link>https://mlglobalhealth.github.io/publication/flaxman-2020-estimatingeurope/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/flaxman-2020-estimatingeurope/</guid>
+      <title>Unifying incidence and prevalence under a time-varying general branching process</title>
+      <link>https://mlglobalhealth.github.io/publication/pakkanen-2021-unifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/pakkanen-2021-unifying/</guid>
       <description></description>
     </item>
     

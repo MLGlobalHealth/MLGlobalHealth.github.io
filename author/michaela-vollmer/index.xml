@@ -5,7 +5,7 @@
     <link>https://mlglobalhealth.github.io/author/michaela-vollmer/</link>
       <atom:link href="https://mlglobalhealth.github.io/author/michaela-vollmer/index.xml" rel="self" type="application/rss+xml" />
     <description>Michaela Vollmer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
       <title>Michaela Vollmer</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Is the cure really worse than the disease? The health impacts of lockdowns during COVID-19</title>
-      <link>https://mlglobalhealth.github.io/publication/6-d-3-d-288134-a-446-e-1-b-5-d-4356-a-56-a-6114-d/</link>
+      <title>Gaussian process nowcasting: application to COVID-19 mortality reporting</title>
+      <link>https://mlglobalhealth.github.io/publication/hawryluk-2021-dec/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/hawryluk-2021-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England</title>
+      <link>https://mlglobalhealth.github.io/publication/mishra-2021-changing/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/6-d-3-d-288134-a-446-e-1-b-5-d-4356-a-56-a-6114-d/</guid>
+      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-changing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries</title>
+      <link>https://mlglobalhealth.github.io/publication/walker-2020-jul/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/walker-2020-jul/</guid>
       <description></description>
     </item>
     

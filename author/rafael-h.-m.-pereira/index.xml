@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael H. M. Pereira | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/rafael-h.-m.-pereira/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/rafael-h.-m.-pereira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael H. M. Pereira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>Rafael H. M. Pereira</title>
+      <link>https://mlglobalhealth.github.io/author/rafael-h.-m.-pereira/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals</title>
+      <link>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resurgence of COVID-19 in Manaus, Brazil, despite high seroprevalence</title>
+      <link>https://mlglobalhealth.github.io/publication/sabino-2021-feb/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/sabino-2021-feb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-quarters attack rate of SARS-CoV-2 in the Brazilian Amazon during a largely unmitigated epidemic</title>
+      <link>https://mlglobalhealth.github.io/publication/buss-2021-jan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/buss-2021-jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution and epidemic spread of SARS-CoV-2 in Brazil</title>
+      <link>https://mlglobalhealth.github.io/publication/candido-2020-sep/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/candido-2020-sep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rim Kahloun | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/rim-kahloun/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/rim-kahloun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rim Kahloun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>Rim Kahloun</title>
+      <link>https://mlglobalhealth.github.io/author/rim-kahloun/</link>
+    </image>
+    
+    <item>
+      <title>Number of People Blind or Visually Impaired by Cataract Worldwide and in World Regions, 1990 to 2010</title>
+      <link>https://mlglobalhealth.github.io/publication/khairallah-2015-oct/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/khairallah-2015-oct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

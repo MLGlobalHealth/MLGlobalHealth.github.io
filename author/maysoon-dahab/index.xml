@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maysoon Dahab | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/maysoon-dahab/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/maysoon-dahab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maysoon Dahab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>Maysoon Dahab</title>
+      <link>https://mlglobalhealth.github.io/author/maysoon-dahab/</link>
+    </image>
+    
+    <item>
+      <title>Under-reporting of deaths limits our understanding of true burden of covid-19</title>
+      <link>https://mlglobalhealth.github.io/publication/whittaker-2021-oct/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/whittaker-2021-oct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

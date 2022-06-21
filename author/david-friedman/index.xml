@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Friedman | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/author/david-friedman/</link>
+      <atom:link href="https://mlglobalhealth.github.io/author/david-friedman/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Friedman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>David Friedman</title>
+      <link>https://mlglobalhealth.github.io/author/david-friedman/</link>
+    </image>
+    
+    <item>
+      <title>Global causes of blindness and distance vision impairment 1990–2020: a systematic review and meta-analysis</title>
+      <link>https://mlglobalhealth.github.io/publication/flaxman-2017-dec/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/flaxman-2017-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnitude, temporal trends, and projections of the global prevalence of blindness and distance and near vision impairment: a systematic review and meta-analysis</title>
+      <link>https://mlglobalhealth.github.io/publication/bourne-2017-sep/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/bourne-2017-sep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

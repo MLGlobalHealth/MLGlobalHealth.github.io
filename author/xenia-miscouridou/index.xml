@@ -5,12 +5,68 @@
     <link>https://mlglobalhealth.github.io/author/xenia-miscouridou/</link>
       <atom:link href="https://mlglobalhealth.github.io/author/xenia-miscouridou/index.xml" rel="self" type="application/rss+xml" />
     <description>Xenia Miscouridou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlglobalhealth.github.io/author/xenia-miscouridou/avatar_huf7657711b69060020d572436a0ae9bc6_74113_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xenia Miscouridou</title>
       <link>https://mlglobalhealth.github.io/author/xenia-miscouridou/</link>
     </image>
+    
+    <item>
+      <title>Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals</title>
+      <link>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process nowcasting: application to COVID-19 mortality reporting</title>
+      <link>https://mlglobalhealth.github.io/publication/hawryluk-2021-dec/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/hawryluk-2021-dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England</title>
+      <link>https://mlglobalhealth.github.io/publication/mishra-2021-changing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/mishra-2021-changing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying incidence and prevalence under a time-varying general branching process</title>
+      <link>https://mlglobalhealth.github.io/publication/pakkanen-2021-unifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/pakkanen-2021-unifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchangeable random measures for sparse and modular graphs with overlapping communities</title>
+      <link>https://mlglobalhealth.github.io/publication/todeschini-2020-apr/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/todeschini-2020-apr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Survival Analysis: Nonparametrics and Missingness</title>
+      <link>https://mlglobalhealth.github.io/publication/miscouridou-2018-nov/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/miscouridou-2018-nov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling sparsity, heterogeneity, reciprocity and community structure in temporal interaction data</title>
+      <link>https://mlglobalhealth.github.io/publication/miscouridou-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/miscouridou-2018/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

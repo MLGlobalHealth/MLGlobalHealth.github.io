@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cascade prediction. | Machine Learning &amp; Global Health Network</title>
+    <link>https://mlglobalhealth.github.io/tag/cascade-prediction./</link>
+      <atom:link href="https://mlglobalhealth.github.io/tag/cascade-prediction./index.xml" rel="self" type="application/rss+xml" />
+    <description>cascade prediction.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
+      <title>cascade prediction.</title>
+      <link>https://mlglobalhealth.github.io/tag/cascade-prediction./</link>
+    </image>
+    
+    <item>
+      <title>Feature Driven and Point Process Approaches for Popularity Prediction</title>
+      <link>https://mlglobalhealth.github.io/publication/swapnilcikm-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/swapnilcikm-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

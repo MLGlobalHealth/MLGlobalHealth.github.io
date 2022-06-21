@@ -5,7 +5,7 @@
     <link>https://mlglobalhealth.github.io/author/thomas-mellan/</link>
       <atom:link href="https://mlglobalhealth.github.io/author/thomas-mellan/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Mellan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url>
       <title>Thomas Mellan</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Database of epidemic trends and control measures during the first wave of COVID-19 in mainland China</title>
-      <link>https://mlglobalhealth.github.io/publication/118-e-9191-e-0-cb-4486-a-487-c-453423-e-56-c-6/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/118-e-9191-e-0-cb-4486-a-487-c-453423-e-56-c-6/</guid>
+      <title>Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals</title>
+      <link>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/brizzi-2022-may/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantifying Online News Media Coverage of the COVID-19 Pandemic: Text Mining Study and Resource</title>
-      <link>https://mlglobalhealth.github.io/publication/swapnil-mishra-96987591/</link>
+      <title>Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe</title>
+      <link>https://mlglobalhealth.github.io/publication/sharma-2021-xj/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mlglobalhealth.github.io/publication/sharma-2021-xj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
+      <link>https://mlglobalhealth.github.io/publication/monodeabe-8372/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mlglobalhealth.github.io/publication/swapnil-mishra-96987591/</guid>
+      <guid>https://mlglobalhealth.github.io/publication/monodeabe-8372/</guid>
       <description></description>
     </item>
     
