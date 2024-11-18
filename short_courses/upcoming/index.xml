@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Upcoming short courses | MLGH</title><link>https://mlglobalhealth.github.io/short_courses/upcoming/</link><atom:link href="https://mlglobalhealth.github.io/short_courses/upcoming/index.xml" rel="self" type="application/rss+xml"/><description>Upcoming short courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url><title>Upcoming short courses</title><link>https://mlglobalhealth.github.io/short_courses/upcoming/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Upcoming short courses | MLGH</title><link>https://mlglobalhealth.github.io/short_courses/upcoming/</link><atom:link href="https://mlglobalhealth.github.io/short_courses/upcoming/index.xml" rel="self" type="application/rss+xml"/><description>Upcoming short courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><image><url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url><title>Upcoming short courses</title><link>https://mlglobalhealth.github.io/short_courses/upcoming/</link></image><item><title>AI and Probabilistic Programming for Global Health in Africa</title><link>https://mlglobalhealth.github.io/short_courses/upcoming/aimsximperial2025/</link><pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate><guid>https://mlglobalhealth.github.io/short_courses/upcoming/aimsximperial2025/</guid><description>&lt;style>
+p {
+text-align: justify;
+}
+a.button {
+padding: 8px 8px;
+border: 1x outset buttonborder;
+border-radius: 15px;
+color: white;
+background-color: rgb(0, 191, 255);
+text-decoration: none;
+font-size:25px
+}
+&lt;/style>
+&lt;p>&lt;strong>When:&lt;/strong> 24th - 28th March 2025
+&lt;br>
+&lt;strong>Where:&lt;/strong> AIMS, Cape Town, South Africa&lt;/p>
+&lt;p>Imperial College London and AIMS South Africa are pleased to offer a new 1 week short course in Modern Statistics and Global Health. This course is targeted at Masters level students and above with a background in statistics and/or data science, who are interested in modern statistical methods with applications in global population health.&lt;/p>
+&lt;p>Attendees will learn how to:&lt;/p>
+&lt;ul>
+&lt;li>Write their own models in the probabilistic programming language Stan, carry out full Bayesian inference and assess model convergence,&lt;/li>
+&lt;li>Implement advanced statistical models including mixed effects models for hierarchical data, non-parametric gaussian process regression models and computationally scalable approximations,&lt;/li>
+&lt;li>Implement compartmental models for infectious disease epidemiology,&lt;/li>
+&lt;li>Implement a full phylogenetic analysis pipeline for the analysis of pathogen genomic data,&lt;/li>
+&lt;li>Interpret results and present findings&lt;/li>
+&lt;/ul>
+&lt;p>Attendees will learn on the course through a blended mix of lectures, hands-on computer practicals and guided tutorials, group work and presenting to their peers.&lt;/p>
+&lt;p>&lt;strong>Pre-requisites:&lt;/strong> Good knowledge of Python and git&lt;/p>
+&lt;p>&lt;strong>Deadline to apply:&lt;/strong> 31 January 2025&lt;/p>
+&lt;center>
+&lt;a href="https://mlgh.net/sa_aimsximperial2025/overview/" class="button">More information&lt;a/>
+&lt;a href="https://mlgh.net/sa_aimsximperial2025/application/" class="button">Apply&lt;a/>
+&lt;/center></description></item></channel></rss>
