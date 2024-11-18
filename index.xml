@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MLGH</title><link>https://mlglobalhealth.github.io/</link><atom:link href="https://mlglobalhealth.github.io/index.xml" rel="self" type="application/rss+xml"/><description>MLGH</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url><title>MLGH</title><link>https://mlglobalhealth.github.io/</link></image><item><title>AIMS-Imperial workshop: Modern Statistics and Machine Learning for Global Health</title><link>https://mlglobalhealth.github.io/workshops/aimsximperial2024/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://mlglobalhealth.github.io/workshops/aimsximperial2024/</guid><description>&lt;p>&lt;strong>Course Contents&lt;/strong>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MLGH</title><link>https://mlglobalhealth.github.io/</link><atom:link href="https://mlglobalhealth.github.io/index.xml" rel="self" type="application/rss+xml"/><description>MLGH</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url><title>MLGH</title><link>https://mlglobalhealth.github.io/</link></image><item><title>AIMS-Imperial Rwanda 2024: Modern Statistics and Machine Learning for Global Health</title><link>https://mlglobalhealth.github.io/short_courses/past/aimsximperial2024/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://mlglobalhealth.github.io/short_courses/past/aimsximperial2024/</guid><description>&lt;style>
+fig-center img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+fig-center figcaption {
+text-align: center;
+}
+p {
+text-align: justify;
+}
+&lt;/style>
+&lt;p class="text">
+In February 2024, 4 members of the Machine Learning and Global Health Network visited AIMS Rwanda to deliver a 3-day workshop on modern methods at the intersection of epidemiology, statistical modelling and computer science, including probabilistic programming using Stan, computationally efficient non-parametric Bayesian inference, statistical techniques for infectious disease modelling and public health, and phylogenetics.
+&lt;h2 id="course-contents">Course Contents&lt;/h2>
 &lt;p>&lt;em>&lt;strong>Thursday  February 22&lt;/strong>&lt;/em> &lt;/p>
 &lt;p>Lecture 1: Introductions (9.00-9.30) &lt;/p>
 &lt;p>&lt;strong>Bayesian Inference&lt;/strong> &lt;/p>
@@ -20,19 +35,25 @@
 &lt;p>Practical 5: Fitting an SIR model in Stan (11.00-13.00) &lt;/p>
 &lt;p>&lt;strong>Course material&lt;/strong>
 All course material is freely available from &lt;a href="https://github.com/MLGlobalHealth/aims_rwanda_2024" target="_blank" rel="noopener">https://github.com/MLGlobalHealth/aims_rwanda_2024&lt;/a>&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="alt" srcset="
-/workshops/aimsximperial2024/featured_huaaa6787776b78cd6c54535f6e47a461d_4444211_6124e2e3385e4a79c1be318bbd96eb77.webp 400w,
-/workshops/aimsximperial2024/featured_huaaa6787776b78cd6c54535f6e47a461d_4444211_9ebd34b680829d49b568df13b9e1a13b.webp 760w,
-/workshops/aimsximperial2024/featured_huaaa6787776b78cd6c54535f6e47a461d_4444211_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://mlglobalhealth.github.io/workshops/aimsximperial2024/featured_huaaa6787776b78cd6c54535f6e47a461d_4444211_6124e2e3385e4a79c1be318bbd96eb77.webp"
-width="760"
-height="570"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Adding your profile</title><link>https://mlglobalhealth.github.io/add-profile/</link><pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate><guid>https://mlglobalhealth.github.io/add-profile/</guid><description>&lt;ul>
+&lt;h2 id="course-testimonials-and-">Course testimonials and 📸&lt;/h2>
+&lt;p>A few quotes from the course:&lt;/p>
+&lt;p>&lt;em>“The course is very important. In this era of AI and Machine learning, it may be the time to train more youngsters and senior researchers to explore more about the use of AI in the field of modelling and treating communicable diseases.”&lt;/em>&lt;/p>
+&lt;p>&lt;em>“I have been enjoying the content and learning Modern Statistics and Machine Learning for Global Health, methodology used was really valuable.”&lt;/em>&lt;/p>
+&lt;/p>
+&lt;center>
+&lt;img src="featured.jpg" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_1.jpg" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_2.png" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_3.jpg" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_4.png" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_5.png" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;/center></description></item><item><title>Adding your profile</title><link>https://mlglobalhealth.github.io/add-profile/</link><pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate><guid>https://mlglobalhealth.github.io/add-profile/</guid><description>&lt;ul>
 &lt;li>First thing is to fork the website &lt;a href="https://github.com/MLGlobalHealth/starter-hugo-research-group" target="_blank" rel="noopener">repository&lt;/a>&lt;/li>
 &lt;li>Clone the fork on your local machine. Let us assume the directory you have cloned is named &lt;code>base_dir&lt;/code>&lt;/li>
 &lt;li>Next is to install hugo for local development. You can find instructions at this &lt;a href="https://gohugo.io/installation/" target="_blank" rel="noopener">page&lt;/a>. You may skip this page if you are not looking to have a local version, this will just not let you preview how you changes would look on the website.&lt;/li>
