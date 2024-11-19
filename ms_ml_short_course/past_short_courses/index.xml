@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Past short courses | MLGH</title><link>https://mlglobalhealth.github.io/ms_ml_short_course/past_short_courses/</link><atom:link href="https://mlglobalhealth.github.io/ms_ml_short_course/past_short_courses/index.xml" rel="self" type="application/rss+xml"/><description>Past short courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://mlglobalhealth.github.io/media/icon_hu2550808fad87dd433d19be568a22a945_9051_512x512_fill_lanczos_center_3.png</url><title>Past short courses</title><link>https://mlglobalhealth.github.io/ms_ml_short_course/past_short_courses/</link></image><item><title>AIMS-Imperial Rwanda 2024: Modern Statistics and Machine Learning for Global Health</title><link>https://mlglobalhealth.github.io/ms_ml_short_course/past_short_courses/aimsximperial2024/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://mlglobalhealth.github.io/ms_ml_short_course/past_short_courses/aimsximperial2024/</guid><description>&lt;style>
+fig-center img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+fig-center figcaption {
+text-align: center;
+}
+p {
+text-align: justify;
+}
+&lt;/style>
+&lt;p class="text">
+In February 2024, 4 members of the Machine Learning and Global Health Network visited AIMS Rwanda to deliver a 3-day workshop on modern methods at the intersection of epidemiology, statistical modelling and computer science, including probabilistic programming using Stan, computationally efficient non-parametric Bayesian inference, statistical techniques for infectious disease modelling and public health, and phylogenetics.
+&lt;h2 id="course-contents">Course Contents&lt;/h2>
+&lt;p>&lt;em>&lt;strong>Thursday  February 22&lt;/strong>&lt;/em> &lt;/p>
+&lt;p>Lecture 1: Introductions (9.00-9.30) &lt;/p>
+&lt;p>&lt;strong>Bayesian Inference&lt;/strong> &lt;/p>
+&lt;p>Lecture 2: Introduction to Stan for applied Bayesian analyses (9.30-10.00) &lt;/p>
+&lt;p>Practical 1: Stan basics (10.00-11.30) &lt;/p>
+&lt;p>Lecture 3: Scalable Gaussian process regression models (11.45-12.30) &lt;/p>
+&lt;p>Practical 2: Scalable GP regression models (12.30-13.00) &lt;/p>
+&lt;p>Practical 2: Scalable GP regression models continued (14.00-16.00) &lt;/p>
+&lt;p>&lt;em>&lt;strong>Friday  February 23&lt;/strong>&lt;/em> &lt;/p>
+&lt;p>&lt;em>&lt;strong>Infectious Disease Modelling&lt;/strong>&lt;/em> &lt;/p>
+&lt;p>Lecture 4: Introduction to Infectious Disease Modelling (09.00-10:00) &lt;/p>
+&lt;p>Lecture 5: Introduction to phylogenetics (10:00-10:40) &lt;/p>
+&lt;p>Lecture 6: (11.00-13:00) Four remote research talks from the Machine Learning and Global Health Network (Oliver Ratmann, Seth Flaxman, Samir Bhatt, Liza Semenova)&lt;/p>
+&lt;p>Practical 3: Running a phylogenetic pipeline (14:00-15:00) &lt;/p>
+&lt;p>Lecture 6: SIR models (15:00-16:00) &lt;/p>
+&lt;p>&lt;em>&lt;strong>Saturday  February 24&lt;/strong>&lt;/em> &lt;/p>
+&lt;p>Practical 4: Deriving SIR type models (09:00-10:30) &lt;/p>
+&lt;p>Lecture 7: Introduction to Fitting an SIR model practical (10:45-11:00) &lt;/p>
+&lt;p>Practical 5: Fitting an SIR model in Stan (11.00-13.00) &lt;/p>
+&lt;p>&lt;strong>Course material&lt;/strong>
+All course material is freely available from &lt;a href="https://github.com/MLGlobalHealth/aims_rwanda_2024" target="_blank" rel="noopener">https://github.com/MLGlobalHealth/aims_rwanda_2024&lt;/a>&lt;/p>
+&lt;h2 id="course-testimonials-and-">Course testimonials and 📸&lt;/h2>
+&lt;p>A few quotes from the course:&lt;/p>
+&lt;p>&lt;em>“The course is very important. In this era of AI and Machine learning, it may be the time to train more youngsters and senior researchers to explore more about the use of AI in the field of modelling and treating communicable diseases.”&lt;/em>&lt;/p>
+&lt;p>&lt;em>“I have been enjoying the content and learning Modern Statistics and Machine Learning for Global Health, methodology used was really valuable.”&lt;/em>&lt;/p>
+&lt;/p>
+&lt;center>
+&lt;img src="featured.jpg" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_1.jpg" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_2.png" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_3.jpg" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_4.png" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;img src="rwanda_course_5.png" width="1080"/>
+&lt;figcaption text-align: center>&lt;/figcaption>
+&lt;/center></description></item></channel></rss>
